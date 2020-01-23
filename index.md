@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 Things I like about CS 193
 - No tests 
-- Not textbook
+- No textbook
 - Its chill
 
 1. Numbered
