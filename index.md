@@ -16,9 +16,9 @@ Syntax highlighted code block
 ### Header 3
 
 Things I like about CS 193
-- No tests 
-- No textbook
-- Its chill
+-No tests 
+-No textbook
+-Its chill
 
 1. Numbered
 2. List
